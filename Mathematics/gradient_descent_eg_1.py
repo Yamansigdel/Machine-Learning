@@ -1,3 +1,4 @@
+# with a target value
 import numpy as np
 
 # Define the function to minimize (example: y = 2x^2 + 3x + 1)
