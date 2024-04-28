@@ -1,3 +1,5 @@
+#Linear Regression with one variable
+
 import numpy as np
 import matplotlib.pyplot as plt
 #plt.style.use('./deeplearning.mplstyle')
