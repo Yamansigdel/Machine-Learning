@@ -21,7 +21,7 @@ def  model(x,w,b):
 y_pred= model(x_train,w,b)
 plt.plot(x_train, y_pred, c='b', label='Prediction')
 
-plt.scatter (x_train,y_train, marker='*', c='r', label='Actual Values')
+plt.scatter (x_train,y_train, marker='x', c='r', label='Actual Values')
 
 # Set the title
 plt.title("Housing Prices")
