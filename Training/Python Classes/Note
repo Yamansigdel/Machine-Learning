@@ -1,0 +1,22 @@
+#Deep learning vs. Machine learning
+
+Deep learning can extract features itself while ML can't.
+
+Both needs pre-processing using EDA.
+
+#EDA
+1) Data Loading (if csv, excel --> pandas)
+2) Data Wrangling (if image --> pillow, CV2) (if audio --> Librosa) (--> panda, numpy , CV2 )
+3) Data Visualization (--> matplotlib, plotly, seaborn)
+4) Data Formatting (--> Numpy)
+
+
+loc returns value while iloc returns values in the corresponding index only
+
+Apply:-
+- Funtion that acts as single column or entire data frame
+- Can be used in conjuction with lamda function
+
+
+Dataframe is used to store data in excel format/type
+We have to store data in dataframe and split the data in varaibles using tolist() function.

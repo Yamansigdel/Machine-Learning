@@ -1,0 +1,13 @@
+train: D:/Training/Python Classes/Yolo/smartphone.v1i.yolov8/train/images
+val: D:/Training/Python Classes/Yolo/smartphone.v1i.yolov8/test/images
+#test: ../test/images
+
+nc: 4
+names: ['0', '1', 'Hand', 'Smartphone']
+
+roboflow:
+  workspace: nextperception
+  project: smartphone-rnmkz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nextperception/smartphone-rnmkz/dataset/1
